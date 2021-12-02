@@ -21,4 +21,4 @@
 <!-- ![syaifuddinzuhri's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syaifuddinzuhri&show_icons=true&count_private=true&theme=gruvbox) -->
 
 ## 🔔 My Latest Github Metrics
-![Metrics](https://metrics.lecoq.io/syaifuddinzuhri?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+![Metrics](https://metrics.lecoq.io/syaifuddinzuhri?template=classic&config.timezone=Asia%2FBangkok)
